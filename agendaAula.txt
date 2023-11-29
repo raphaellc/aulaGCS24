@@ -5,3 +5,5 @@ Agenda
 4. git log - acompanhar o histórico de commits no repositório
 5. git diff
 6. git revert
+7. git fetch
+8. git push
